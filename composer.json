@@ -1,0 +1,16 @@
+{
+	"name": "florian.thoma/silverstripe-cmshidedeletedraft",
+	"description": "Removes the 'delete draft' button for published pages in the CMS.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "cms", "draft"],
+	"authors": [{
+		"name": "Florian Thoma",
+		"email": "florian@innoweb.com.au"
+	}],
+	"require":
+	{
+		"silverstripe/framework": "3.1.*",
+		"silverstripe/cms": "3.1.*",
+		"composer/installers": "*"
+	}
+}
