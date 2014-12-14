@@ -1,5 +1,5 @@
 {
-	"name": "florian.thoma/silverstripe-cmshidedeletedraft",
+	"name": "xini/silverstripe-cmshidedeletedraft",
 	"description": "Removes the 'delete draft' button for published pages in the CMS.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "cms", "draft"],
