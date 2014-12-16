@@ -1,5 +1,5 @@
 {
-	"name": "xini/cmshidedeletedraft",
+	"name": "xini/silverstripe-cmshidedeletedraft",
 	"description": "Removes the 'delete draft' button for published pages in the CMS.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "cms", "draft"],
@@ -12,5 +12,8 @@
 		"silverstripe/framework": "3.1.*",
 		"silverstripe/cms": "3.1.*",
 		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "cmshidedeletedraft"
 	}
 }
