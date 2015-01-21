@@ -2,6 +2,6 @@
 Name: cmshidedeletedraft
 After: 'cms/*'
 ---
-SiteStree:
+SiteTree:
   extensions:
     - HideDeleteDraftSiteTreeExtension
