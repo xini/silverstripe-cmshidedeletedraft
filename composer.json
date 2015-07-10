@@ -5,7 +5,7 @@
 	"keywords": ["silverstripe", "cms", "draft"],
 	"authors": [{
 		"name": "Florian Thoma",
-		"email": "florian@innoweb.com.au"
+		"homepage": "http://www.innoweb.com.au"
 	}],
 	"require":
 	{
